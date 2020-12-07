@@ -1,0 +1,4 @@
+line: <    df     dfgdfg  df  dfff    adddsd    dofoff df  df.>
+Remove extra space:   df dfgdfg df dfff adddsd dofoff df df.
+Remove words, wich equal to the last word:   dfgdfg dfff adddsd dofoff df.
+Extra task: <dfdfg df asd doof df>

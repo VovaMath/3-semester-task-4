@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1607367539 source:c:\users\Владимир\desktop\Матмех\3 семестр\task 4\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+
